@@ -1,0 +1,15 @@
+[submodule "site-cookbooks/php"]
+	path = site-cookbooks/php
+	url = git://github.com/opscode-cookbooks/php.git
+[submodule "site-cookbooks/build-essential"]
+	path = site-cookbooks/build-essential
+	url = git://github.com/opscode-cookbooks/build-essential.git
+[submodule "site-cookbooks/xml"]
+	path = site-cookbooks/xml
+	url = git://github.com/opscode-cookbooks/xml.git
+[submodule "site-cookbooks/mysql"]
+	path = site-cookbooks/mysql
+	url = git://github.com/opscode-cookbooks/mysql.git
+[submodule "site-cookbooks/openssl"]
+	path = site-cookbooks/openssl
+	url = git://github.com/opscode-cookbooks/openssl.git
