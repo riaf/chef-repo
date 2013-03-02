@@ -7,9 +7,7 @@ riaf/setup-server
 Usage
 -----
 
-1. Symlink chef-repo to `/var/chef-solo`
-
-    /var $ ln -s /path/to/chef-repo chef-solo
+    knife solo bootstrap [HOST]
 
 
 Vagrant
