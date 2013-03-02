@@ -5,7 +5,8 @@
     "recipe[zsh]",
     "recipe[git]",
     "recipe[tmux]",
-    "recipe[vim]"
+    "recipe[vim]",
+    "recipe[users::sysadmins]"
   ]
 }
 
