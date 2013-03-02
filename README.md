@@ -36,6 +36,12 @@ Requirements
     gem install vagrant
 
 
+Update Submodules (upgrade site-cookbooks)
+------------------------------------------
+
+    git submodule foreach git pull --rebase
+
+
 Setup Environment
 -----------------
 

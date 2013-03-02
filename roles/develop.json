@@ -2,7 +2,10 @@
   "name": "develop",
   "json_class": "Chef::Role",
   "run_list": [
-    "recipe[zsh]"
+    "recipe[zsh]",
+    "recipe[git]",
+    "recipe[tmux]",
+    "recipe[vim]"
   ]
 }
 
