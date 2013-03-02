@@ -1,42 +1,42 @@
-[submodule "site-cookbooks/php"]
-	path = site-cookbooks/php
+[submodule "cookbooks/php"]
+	path = cookbooks/php
 	url = git://github.com/opscode-cookbooks/php.git
-[submodule "site-cookbooks/build-essential"]
-	path = site-cookbooks/build-essential
-	url = git://github.com/opscode-cookbooks/build-essential.git
-[submodule "site-cookbooks/xml"]
-	path = site-cookbooks/xml
+[submodule "cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = git://github.com/opscode-cookbooks/build-essential
+[submodule "cookbooks/xml"]
+	path = cookbooks/xml
 	url = git://github.com/opscode-cookbooks/xml.git
-[submodule "site-cookbooks/mysql"]
-	path = site-cookbooks/mysql
+[submodule "cookbooks/mysql"]
+	path = cookbooks/mysql
 	url = git://github.com/opscode-cookbooks/mysql.git
-[submodule "site-cookbooks/openssl"]
-	path = site-cookbooks/openssl
+[submodule "cookbooks/openssl"]
+	path = cookbooks/openssl
 	url = git://github.com/opscode-cookbooks/openssl.git
-[submodule "site-cookbooks/zsh"]
-	path = site-cookbooks/zsh
+[submodule "cookbooks/zsh"]
+	path = cookbooks/zsh
 	url = git://github.com/opscode-cookbooks/zsh.git
-[submodule "site-cookbooks/vim"]
-	path = site-cookbooks/vim
+[submodule "cookbooks/vim"]
+	path = cookbooks/vim
 	url = git://github.com/opscode-cookbooks/vim.git
-[submodule "site-cookbooks/tmux"]
-	path = site-cookbooks/tmux
+[submodule "cookbooks/tmux"]
+	path = cookbooks/tmux
 	url = git://github.com/opscode-cookbooks/tmux.git
-[submodule "site-cookbooks/git"]
-	path = site-cookbooks/git
+[submodule "cookbooks/git"]
+	path = cookbooks/git
 	url = git://github.com/opscode-cookbooks/git.git
-[submodule "site-cookbooks/dmg"]
-	path = site-cookbooks/dmg
+[submodule "cookbooks/dmg"]
+	path = cookbooks/dmg
 	url = git://github.com/opscode-cookbooks/dmg.git
-[submodule "site-cookbooks/runit"]
-	path = site-cookbooks/runit
+[submodule "cookbooks/runit"]
+	path = cookbooks/runit
 	url = git://github.com/opscode-cookbooks/runit.git
-[submodule "site-cookbooks/windows"]
-	path = site-cookbooks/windows
+[submodule "cookbooks/windows"]
+	path = cookbooks/windows
 	url = git://github.com/opscode-cookbooks/windows.git
-[submodule "site-cookbooks/chef_handler"]
-	path = site-cookbooks/chef_handler
+[submodule "cookbooks/chef_handler"]
+	path = cookbooks/chef_handler
 	url = git://github.com/opscode-cookbooks/chef_handler.git
-[submodule "site-cookbooks/yum"]
-	path = site-cookbooks/yum
+[submodule "cookbooks/yum"]
+	path = cookbooks/yum
 	url = git://github.com/opscode-cookbooks/yum.git
