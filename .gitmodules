@@ -16,3 +16,27 @@
 [submodule "site-cookbooks/zsh"]
 	path = site-cookbooks/zsh
 	url = git://github.com/opscode-cookbooks/zsh.git
+[submodule "site-cookbooks/vim"]
+	path = site-cookbooks/vim
+	url = git://github.com/opscode-cookbooks/vim.git
+[submodule "site-cookbooks/tmux"]
+	path = site-cookbooks/tmux
+	url = git://github.com/opscode-cookbooks/tmux.git
+[submodule "site-cookbooks/git"]
+	path = site-cookbooks/git
+	url = git://github.com/opscode-cookbooks/git.git
+[submodule "site-cookbooks/dmg"]
+	path = site-cookbooks/dmg
+	url = git://github.com/opscode-cookbooks/dmg.git
+[submodule "site-cookbooks/runit"]
+	path = site-cookbooks/runit
+	url = git://github.com/opscode-cookbooks/runit.git
+[submodule "site-cookbooks/windows"]
+	path = site-cookbooks/windows
+	url = git://github.com/opscode-cookbooks/windows.git
+[submodule "site-cookbooks/chef_handler"]
+	path = site-cookbooks/chef_handler
+	url = git://github.com/opscode-cookbooks/chef_handler.git
+[submodule "site-cookbooks/yum"]
+	path = site-cookbooks/yum
+	url = git://github.com/opscode-cookbooks/yum.git
