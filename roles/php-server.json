@@ -1,0 +1,12 @@
+{
+  "name": "php-server",
+  "json_class": "Chef::Role",
+  "run_list": [
+    "recipe[php]"
+  ],
+  "default_attributes": {
+    "php": {
+      "install_method": "package"
+    }
+  }
+}
