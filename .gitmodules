@@ -13,3 +13,6 @@
 [submodule "site-cookbooks/openssl"]
 	path = site-cookbooks/openssl
 	url = git://github.com/opscode-cookbooks/openssl.git
+[submodule "site-cookbooks/zsh"]
+	path = site-cookbooks/zsh
+	url = git://github.com/opscode-cookbooks/zsh.git
