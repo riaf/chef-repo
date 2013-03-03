@@ -6,7 +6,8 @@
     "recipe[git]",
     "recipe[tmux]",
     "recipe[vim]",
-    "recipe[users::sysadmins]"
+    "recipe[users::sysadmins]",
+    "recipe[dotfiles]"
   ]
 }
 
