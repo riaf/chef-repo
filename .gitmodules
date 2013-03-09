@@ -46,3 +46,12 @@
 [submodule "cookbooks/dotfiles"]
 	path = cookbooks/dotfiles
 	url = git://github.com/lebedevdsl/chef-dotfiles.git
+[submodule "cookbooks/nodejs"]
+	path = cookbooks/nodejs
+	url = git://github.com/mdxp/nodejs-cookbook.git
+[submodule "cookbooks/npm"]
+	path = cookbooks/npm
+	url = git://github.com/balbeko/chef-npm.git
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = git://github.com/opscode-cookbooks/apt.git

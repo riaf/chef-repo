@@ -1,6 +1,7 @@
 {
   "run_list": [
     "role[develop]",
-    "role[php-server]"
+    "role[php-server]",
+    "role[node-server]"
   ]
 }

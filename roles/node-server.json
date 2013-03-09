@@ -1,0 +1,18 @@
+{
+  "name": "node-server",
+  "json_class": "Chef::Role",
+  "run_list": [
+    "recipe[nodejs]",
+    "recipe[npm]",
+    "recipe[node-server]"
+  ],
+  "default_attributes": {
+    "nodejs": {
+      "version" : "0.8.22",
+      "npm": "1.2.14"
+    },
+    "npm": {
+      "version": "1.2.14"
+    }
+  }
+}
