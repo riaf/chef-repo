@@ -55,3 +55,6 @@
 [submodule "cookbooks/apt"]
 	path = cookbooks/apt
 	url = git://github.com/opscode-cookbooks/apt.git
+[submodule "cookbooks/debian"]
+	path = cookbooks/debian
+	url = git://github.com/reaktor/chef-debian.git

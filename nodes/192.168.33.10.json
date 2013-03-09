@@ -1,7 +1,13 @@
 {
   "run_list": [
+    "recipe[debian]",
     "role[develop]",
     "role[php-server]",
     "role[node-server]"
-  ]
+  ],
+  "default_attributes": {
+    "debian": {
+      "mirror": "http://ftp.jp.debian.org/debian"
+    }
+  }
 }
