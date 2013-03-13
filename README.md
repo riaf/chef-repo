@@ -7,7 +7,7 @@ riaf/setup-server
 Usage
 -----
 
-    knife solo bootstrap [HOST]
+    knife solo cook [HOST]
 
 
 Vagrant
@@ -16,8 +16,7 @@ Vagrant
 recipe のテスト用に vagrant などで
 
     vagrant up
-    knife solo prepare vagrant@192.168.33.10
-    knife solo cook vagrant@192.168.33.10
+    knife solo bootstrap vagrant@192.168.33.10
 
 とか。
 
